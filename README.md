@@ -1,4 +1,4 @@
-# pyrealm
+# pyrealm application at global scale
 
 This forked project is based on pyrealm package devoloped by David Orme and its application on a global scale.
 
